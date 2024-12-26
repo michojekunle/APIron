@@ -104,11 +104,11 @@ APIron is a robust, developer-centric Command Line Interface (CLI) tool designed
 
 ## First Milestone Goals
 
-MVP Development: Support GitHub API with basic features (fetch user, list repos, create issues).
+- MVP Development: Support GitHub API with basic features (fetch user, list repos, create issues).
 
-Documentation: Comprehensive README with setup instructions, examples, and contribution guidelines.
+- Documentation: Comprehensive README with setup instructions, examples, and contribution guidelines.
 
-Community Engagement: Announce the project on social media and invite collaborators.
+- Community Engagement: Announce the project on social media and invite collaborators.
 
 Next Steps
 
