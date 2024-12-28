@@ -1,4 +1,5 @@
 use clap::{Arg, Command};
+use github
 
 pub fn build_cli() -> Command<'static'> {
     Command::new("apiron")
