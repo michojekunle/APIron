@@ -1,7 +1,16 @@
 [package]
 name = "APIron"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
+authors = ["Michael Ojekunle <michojekunle1@gmail.com>"]
+license = "MIT"
+description = "A tool designed to streamline API interactions."
+readme = "README.md"
+homepage = "https://github.com/michojekunle/APIron"
+repository = "https://github.com/michojekunle/APIron"
+keywords = ["cli", "api", "github", "openai", "twitter", "x", "open-source"]
+categories = ["command-line-utilities"]
+
 
 [dependencies]
 clap = { version = "4.0", features = ["derive"] }
