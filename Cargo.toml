@@ -1,7 +1,7 @@
 [package]
 name = "APIron"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 authors = ["Michael Ojekunle <michojekunle1@gmail.com>"]
 license = "MIT"
 description = "A tool designed to streamline API interactions."
